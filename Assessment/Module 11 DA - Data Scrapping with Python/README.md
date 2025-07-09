@@ -6,10 +6,10 @@ This project is a simple web scraper built using Python, Requests, and Beautiful
 - Source: [http://quotes.toscrape.com](http://quotes.toscrape.com)
 
 ## 💻 Libraries Used
+- numpy
+- pandas
 - requests
 - bs4 (BeautifulSoup)
-- pandas
-
 ## 📂 Output
 - Extracted quotes, authors, and tags from the first page.
 - Saved to `quotes_data.csv`.
